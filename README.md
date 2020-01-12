@@ -18,14 +18,18 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 8. Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 9. Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
-Plot 1
+## Plot 1
+
 ![](https://github.com/Woranda99/Exploratory-data-analysis/blob/master/plot_1.png)
 
-Plot 1
+## Plot 2
+
 ![](https://github.com/Woranda99/Exploratory-data-analysis/blob/master/plot_2.png)
 
-Plot 1
+## Plot 3
+
 ![](https://github.com/Woranda99/Exploratory-data-analysis/blob/master/plot_3.png)
 
-Plot 1
+## Plot 4
+
 ![](https://github.com/Woranda99/Exploratory-data-analysis/blob/master/plot_4.png)
